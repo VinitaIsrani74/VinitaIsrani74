@@ -6,11 +6,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinitaisrani74&label=Profile%20views&color=0e75b6&style=flat" alt="vinitaisrani74" /> </p>
 
-- 🌱 I’m currently learning **node.js**
 
-- 💬 Ask me about **HTML , CSS , Java , Javascript, react ,PHP , C, C++**
+🌱 Currently, I'm working as a MERN stack developer in NullClass Technology as an intern (remote), where I'm not only applying my existing skills but also investing significant time and effort into furthering my expertise. I believe in the importance of lifelong learning, and I'm committed to staying abreast of the latest trends, tools, and best practices in software development.
 
-- 📫 How to reach me **isranivinita74@gmail.com**
+💡 In my journey to mastery, I'm delving deeper into both frontend and backend , aiming to achieve proficiency and excellence in these areas. Whether it's mastering advanced algorithms, diving into cloud computing, or refining my knowledge of microservices architecture, I'm dedicated to pushing the boundaries of my abilities.
+ 
+💬 Ask me about **HTML , CSS , Java , Javascript, react ,PHP , C, C++**
+
+📫 How to reach me **isranivinita74@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
