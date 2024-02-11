@@ -1,8 +1,4 @@
-### Hi👋 I'm Vinita Israni
-I am like a code under Development.
-💼 Currently, I'm Full Stack Developer, where I'm not only applying my existing skills but also investing significant time and effort into furthering my expertise. I believe in the importance of lifelong learning, and I'm committed to staying abreast of the latest trends, tools, and best practices in software development.
 
-💡 In my journey to mastery, I'm delving deeper into both frontend and backend, aiming to achieve proficiency and excellence in these areas. I'm dedicated to pushing the boundaries of my abilities.
 
 <!--
 **VinitaIsrani74/VinitaIsrani74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
