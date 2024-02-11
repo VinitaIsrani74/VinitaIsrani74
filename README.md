@@ -10,6 +10,10 @@
 🌱 Currently, I'm working as a MERN stack developer in NullClass Technology as an intern (remote), where I'm not only applying my existing skills but also investing significant time and effort into furthering my expertise. I believe in the importance of lifelong learning, and I'm committed to staying abreast of the latest trends, tools, and best practices in software development.
 
 💡 In my journey to mastery, I'm delving deeper into both frontend and backend , aiming to achieve proficiency and excellence in these areas. Whether it's mastering advanced algorithms, diving into cloud computing, or refining my knowledge of microservices architecture, I'm dedicated to pushing the boundaries of my abilities.
+
+I am a driven full stack developer with a track record of academic excellence and a passion for pushing boundaries in the world of technology. Among my notable achievements, I'm proud to have secured the 2nd position among 127 students during my Master of Computer Applications (MCA) program.
+
+🌟 Let's connect and collaborate on projects where I can leverage my academic achievements and technical skills to drive impactful results and contribute to the success of your team or organization!
  
 💬 Ask me about **HTML , CSS , Java , Javascript, react ,PHP , C, C++**
 
