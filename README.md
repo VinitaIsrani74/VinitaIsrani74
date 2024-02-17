@@ -1,4 +1,10 @@
 
+
+
+
+![gallery (1)](https://github.com/VinitaIsrani74/VinitaIsrani74/assets/138797388/effa958e-8a48-4d49-a870-29e24e3e6620)
+
+
 <h1 align="center">Hi 👋, I'm Vinita Israni</h1>
 <h3 align="center">I am like a code under development</h3>
 
