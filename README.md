@@ -14,12 +14,40 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinitaisrani74&label=Profile%20views&color=0e75b6&style=flat" alt="vinitaisrani74" /> </p>
 
 
-🌱 Currently, I'm working as a MERN stack developer in NullClass Technology as an intern (remote), where I'm not only applying my existing skills but also investing significant time and effort into furthering my expertise. I believe in the importance of lifelong learning, and I'm committed to staying abreast of the latest trends, tools, and best practices in software development.
-
-💡 In my journey to mastery, I'm delving deeper into both frontend and backend , aiming to achieve proficiency and excellence in these areas. Whether it's mastering advanced algorithms, diving into cloud computing, or refining my knowledge of microservices architecture, I'm dedicated to pushing the boundaries of my abilities.
-
-I am a driven full stack developer with a track record of academic excellence and a passion for pushing boundaries in the world of technology. Among my notable achievements, I'm proud to have secured the 2nd position among 127 students during my Master of Computer Applications (MCA) program.
-
+🌱     <ul>
+        <li><strong>Education:</strong>
+            <ul>
+                <li>Recent Computer Science graduate with a CGPA of 9.3.</li>
+                <li>Secured 2nd position among 120 students.</li>
+            </ul>
+        </li>
+        <li><strong>Technical Skills:</strong>
+            <ul>
+                <li>Proficient in HTML, CSS,Bootstrap, JavaScript, React, Redux, Redux Toolkit, NodeJS, ExpressJS, C, C++, Python, Java, RESTful API, MongoDB, and MySQL.</li>
+                <li>Strong understanding of front-end and back-end development.</li>
+                <li>Knowledge of responsive web design and RESTful APIs.</li>
+                <li>Experience with version control systems like Git.</li>
+            </ul>
+        </li>
+        <li><strong>Internship Experience:</strong>
+            <ul>
+                <li>Completed a 3-month part-time remote internship as a Full Stack Developer.</li>
+                <li>Developed, maintained, and optimized web applications.</li>
+            </ul>
+        </li>
+        <li><strong>Projects:</strong>
+            <ul>
+                <li>Created multiple full stack development projects to gain practical experience.</li>
+                <li><a href="https://your-portfolio-link.com" target="_blank">Link to Full Stack Development Projects</a></li>
+            </ul>
+        </li>
+        <li><strong>Collaboration & Problem Solving:</strong>
+            <ul>
+                <li>Effective team player with strong problem-solving abilities.</li>
+                <li>Dedicated to continuous learning and staying up-to-date with the latest technologies.</li>
+            </ul>
+        </li>
+    </ul>
 🌟 Let's connect and collaborate on projects where I can leverage my academic achievements and technical skills to drive impactful results and contribute to the success of your team or organization!
  
 💬 Ask me about **HTML , CSS , Java , Javascript, react ,PHP , C, C++**
