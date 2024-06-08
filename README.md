@@ -38,7 +38,7 @@
         <li><strong>Projects:</strong>
             <ul>
                 <li>Created multiple full stack development projects to gain practical experience.</li>
-                <li><a href="https://your-portfolio-link.com" target="_blank">Link to Full Stack Development Projects</a></li>
+                <li><a href="https://real-estate-marketplace-mern-qsrv.onrender.com/" target="_blank">Link to Full Stack Development Projects</a></li>
             </ul>
         </li>
         <li><strong>Collaboration & Problem Solving:</strong>
