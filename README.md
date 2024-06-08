@@ -1,8 +1,8 @@
 
 
+![Screenshot 2024-06-08 221513](https://github.com/VinitaIsrani74/VinitaIsrani74/assets/138797388/cf72f4ca-1825-43bb-a0ff-258829e28b5f)
 
 
-![gallery (1)](https://github.com/VinitaIsrani74/VinitaIsrani74/assets/138797388/effa958e-8a48-4d49-a870-29e24e3e6620)
 
 
 <h1 align="center">Hi 👋, I'm Vinita Israni</h1>
