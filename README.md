@@ -7,16 +7,19 @@
 
 <h1 align="center">Hi 👋, I'm Vinita Israni</h1>
 <h3 align="center">I am like a code under development</h3>
-<h3>Portfolio: https://vinita-israni-portfolio.netlify.app/</h3>
+<h3>Portfolio: https://vinitaisrani-fullstackdeveloper.netlify.app/</h3>
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e478e641o9t9rlw48u7j8yhwrd177z912mf2h3dr4x1&ep=v1_gifs_related&rid=giphy.gif&ct=g"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinitaisrani74&label=Profile%20views&color=0e75b6&style=flat" alt="vinitaisrani74" /> </p>
+🌟Full-Stack Developer at Infinity Technology (Aug 2024 - Present): Currently responsible for building and maintaining web applications part-time using React, Node.js, Express.js, and MongoDB<br><br>
+ 🌟Full-Stack Developer Intern at NullClass (6 months): Worked remotely to build apps with React, Node.js, Express.js, MongoDB, Firebase, and JWT for secure user authentication.
+<br><br>
+🌟Web Developer Intern at TopperWorld (1 month): Developed full-stack web applications using technologies like React, Redux, Node.js, Express.js, and MongoDB.
+<br><br>
+      
 
-
-🌟Dedicated Full Stack Developer: Throughout my academic and professional journey, I've maintained a steadfast commitment to mastering all facets of web development. My passion for this field drives me to continually seek out new challenges and opportunities for growth.<br><br>
-       🌟Completed 3-month internship remotely: During a recent internship, I had the privilege of working remotely as a Full Stack Developer. This experience provided me with invaluable hands-on experience in real-world development scenarios. From collaborating with team members to tackling complex coding challenges, I gained a comprehensive understanding of the development process from start to finish.<br><br>
-      🌟Developed several full stack projects independently: Outside of my internship, I've taken the initiative to develop several full stack projects independently. These projects have not only allowed me to apply theoretical knowledge in a practical setting but have also honed my problem-solving skills and creativity as a developer.<br><br>
+      🌟Developed several full stack projects independently: Outside of my internship and job, I've taken the initiative to develop several full stack projects independently. These projects have not only allowed me to apply theoretical knowledge in a practical setting but have also honed my problem-solving skills and creativity as a developer.<br><br>
      🌟Achieved CGPA of 9.3: Throughout my academic career, I've maintained a high level of academic excellence, culminating in a CGPA of 9.3. This achievement reflects my dedication to learning and my ability to excel in challenging academic environments.<br><br>
        🌟Proficient in HTML, CSS, JavaScript, Node.js, React, MongoDB, and MySQL: I possess a strong technical skill set in essential web development technologies, including HTML, CSS, JavaScript, Node.js, React, MongoDB, and MySQL. My proficiency in these languages and frameworks enables me to tackle a wide range of development tasks with confidence and efficiency.<br><br>
        🌟Strong problem-solving skills and team player: I thrive in environments that challenge me to think critically and creatively. Whether it's troubleshooting coding issues or collaborating with team members to brainstorm solutions, I approach every challenge with a positive attitude and a willingness to learn from others.<br><br>
