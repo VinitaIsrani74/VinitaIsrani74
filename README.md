@@ -12,23 +12,22 @@
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e478e641o9t9rlw48u7j8yhwrd177z912mf2h3dr4x1&ep=v1_gifs_related&rid=giphy.gif&ct=g"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinitaisrani74&label=Profile%20views&color=0e75b6&style=flat" alt="vinitaisrani74" /> </p>
-🌟Full-Stack Developer at Infinity Technology (Aug 2024 - Present): Currently responsible for building and maintaining web applications part-time using React, Node.js, Express.js, and MongoDB<br><br>
- 🌟Full-Stack Developer Intern at NullClass (6 months): Worked remotely to build apps with React, Node.js, Express.js, MongoDB, Firebase, and JWT for secure user authentication.
+🌟 <strong>Full-Stack Developer at Infinity Technology (Aug 2024 - Present):</strong> Currently responsible for building and maintaining web applications part-time using React, Node.js, Express.js, and MongoDB<br><br>
+ 🌟 <strong>Full-Stack Developer Intern at NullClass (6 months):</strong> Worked remotely to build apps with React, Node.js, Express.js, MongoDB, Firebase, and JWT for secure user authentication.
 <br><br>
-🌟Web Developer Intern at TopperWorld (1 month): Developed full-stack web applications using technologies like React, Redux, Node.js, Express.js, and MongoDB.
-<br><br>
-      
+🌟  <strong>Web Developer Intern at TopperWorld (1 month): </strong>Developed full-stack web applications using technologies like React, Redux, Node.js, Express.js, and MongoDB.
+<br><br>    
 
-      🌟Developed several full stack projects independently: Outside of my internship and job, I've taken the initiative to develop several full stack projects independently. These projects have not only allowed me to apply theoretical knowledge in a practical setting but have also honed my problem-solving skills and creativity as a developer.<br><br>
-     🌟Achieved CGPA of 9.3: Throughout my academic career, I've maintained a high level of academic excellence, culminating in a CGPA of 9.3. This achievement reflects my dedication to learning and my ability to excel in challenging academic environments.<br><br>
-       🌟Proficient in HTML, CSS, JavaScript, Node.js, React, MongoDB, and MySQL: I possess a strong technical skill set in essential web development technologies, including HTML, CSS, JavaScript, Node.js, React, MongoDB, and MySQL. My proficiency in these languages and frameworks enables me to tackle a wide range of development tasks with confidence and efficiency.<br><br>
-       🌟Strong problem-solving skills and team player: I thrive in environments that challenge me to think critically and creatively. Whether it's troubleshooting coding issues or collaborating with team members to brainstorm solutions, I approach every challenge with a positive attitude and a willingness to learn from others.<br><br>
+  🌟  <strong>Developed several full stack projects independently: </strong>  Outside of my internship and job, I've taken the initiative to develop several full stack projects independently. These projects have not only allowed me to apply theoretical knowledge in a practical setting but have also honed my problem-solving skills and creativity as a developer.<br><br>
+  🌟   <strong>Achieved CGPA of 9.3:</strong> Throughout my academic career, I've maintained a high level of academic excellence, culminating in a CGPA of 9.3. This achievement reflects my dedication to learning and my ability to excel in challenging academic environments.<br><br>
+       🌟<strong>Proficient in Full Stack Development:</strong> I possess a strong technical skill set in essential web development technologies, including HTML, CSS, JavaScript, Node.js, React, MongoDB, and MySQL. My proficiency in these languages and frameworks enables me to tackle a wide range of development tasks with confidence and efficiency.<br><br>
+       🌟<strong>Strong problem-solving skills and team player:</strong>  I thrive in environments that challenge me to think critically and creatively. Whether it's troubleshooting coding issues or collaborating with team members to brainstorm solutions, I approach every challenge with a positive attitude and a willingness to learn from others.<br><br>
       🌟Excellent communication skills and quick learner: Effective communication is essential in any team-based environment, and I pride myself on my ability to articulate ideas clearly and concisely. Additionally, I have a proven track record of quickly grasping new concepts and technologies, allowing me to adapt and thrive in dynamic work environments.<br><br>
        🌟Immediate joiner: I am excited about the opportunity to contribute my skills and experience to innovative projects. As an immediate joiner, I am ready to hit the ground running and make a meaningful impact from day one.
       
 🌟 Let's connect and collaborate on projects where I can leverage my academic achievements and technical skills to drive impactful results and contribute to the success of your team or organization!
  
-💬 Ask me about **HTML , CSS , Java , Javascript, react ,PHP , C, C++**
+💬 Ask me about **HTML , CSS , Java , Javascript, PHP, C, C++, React, Node.js, Express.js, Data Structures, Redux, JWT Auth, Firebase, Google Auth, MongoDB, MySQL**
 
 📫 How to reach me **isranivinita74@gmail.com**
 
